@@ -258,6 +258,26 @@ color: #12475f;
         background-image: url("hood.jpg");
         background-attachment: fixed;
     }
+
+    .col-sm-4 h6{
+            color: brown;
+            text-transform: uppercase;
+            font-weight: bold;
+            font-size: 36px;
+    }
+
+    .col-sm-4 p{
+        color: white;
+        font-weight: bold;
+        font-size: 16px;
+    }
+    #showcase-1 {
+        background-image: url("school-8.jpeg");
+    }
+
+    #cover{
+        color: black;
+    }
     
 /*fade in effects*/
 
